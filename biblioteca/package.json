@@ -1,0 +1,21 @@
+{
+    "name": "biblioteca",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "dependencies": {
+      "express": "^4.18.1",
+      "mongoose": "^7.0.0"
+    },
+    "devDependencies": {
+      "chai": "^4.3.4",
+      "mocha": "^10.0.0",
+      "supertest": "^6.3.3"
+    },
+    "description": "Aplicação de biblioteca para adicionar, listar e buscar livros",
+    "author": "Seu Nome",
+    "license": "MIT"
+  }
+  
